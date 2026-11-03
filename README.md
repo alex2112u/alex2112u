@@ -6,7 +6,7 @@
 
 ---
 
-## 🇪🇸 Sobre mí
+## Sobre mí
 
 Soy Tecnólogo en Desarrollo de Software, enfocado en el desarrollo de aplicaciones web y sistemas empresariales.
 
@@ -20,7 +20,7 @@ Actualmente estoy fortaleciendo mis conocimientos en Python, Flask, bases de dat
 - 🧩 Estudiando MVC, SOLID, Factory y Clean Architecture.
 - 🎯 Mi objetivo es crecer profesionalmente como Full Stack Developer.
 
-## 🇬🇧 About Me
+##  About Me
 
 I am a Software Development Technologist focused on web application development and business management systems.
 
